@@ -1,4 +1,4 @@
-# Hyperbolic4Rec_Paperlist
+# Hyperbolic Representation Learning 
 This is a list of top papers about hyperbolic enhanced representation learning and its applications in GNN and recommender systems.
 
 ## Table of Contents
