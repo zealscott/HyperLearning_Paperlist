@@ -26,7 +26,12 @@ This is a list of top papers about hyperbolic enhanced representation learning a
 
 
 # Recommendation
+* [HyperML] [A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703) (WSDM 20)
 * [Hyper-know] [Knowledge-Enhanced Top-K Recommendation in Poincar´e Ball](https://arxiv.org/abs/2101.04852) (AAAI 21)
+* [HGCF] [Hyperbolic Graph Convolution Networks for Collaborative Filtering](https://dl.acm.org/doi/10.1145/3442381.3450101) (WWW 21)
+* [HSCML] [Where are we in embedding spaces A Comprehensive Analysis on Network Embedding Approaches for Recommender System](https://arxiv.org/abs/2105.08908) (KDD 21)
+* [LGCF] [Fully Hyperbolic Graph Convolution Network for Recommendation](https://dl.acm.org/doi/abs/10.1145/3459637.3482109) (CIKM 21)
 * [LKGR] [Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation](https://arxiv.org/abs/2108.06468) (WSDM 22)
+* [HRCF] [Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization](https://arxiv.org/abs/2204.08176) (WWW 22)
 * [HAKG] [Hierarchy-Aware Knowledge Gated Network for Recommendation](https://arxiv.org/abs/2204.04959) (SIGIR 22)
 
