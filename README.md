@@ -21,7 +21,13 @@ This is a list of top papers about hyperbolic enhanced representation learning a
 
 
 # Knowledge Graph
-
+* [MuRP] [Multi-relational Poincaré Graph Embeddings](https://arxiv.org/abs/1905.09791) (NeurIPS 19)
+* [HHNE] [Hyperbolic Heterogeneous Information Network Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/4471/4349) (AAAI 19)
+* [ROTH] [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://aclanthology.org/2020.acl-main.617) (ACL 20)
+* [HyperKA] [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162) (EMNLP 20) 
+* [KBHP] [Knowledge Based Hyperbolic Propagation](https://dl.acm.org/doi/abs/10.1145/3404835.3462980) (SIGIR 21)
+* [ConE] [Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones](https://arxiv.org/abs/2110.14923) (NeurIPS 21)
+* [ConE] [Cone Embeddings for Multi-Hop Reasoning over Knowledge Graphs](https://arxiv.org/abs/2110.13715) (NeurIPS 21)
 
 
 
